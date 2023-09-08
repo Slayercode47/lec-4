@@ -1,0 +1,39 @@
+*{
+    color: black;
+    text-align: center;
+}
+body{
+    font-family: 'Poppins';
+    margin: 0;
+}
+h5{
+    text-transform: uppercase;
+    margin-top: 0;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    letter-spacing: 5px;
+}
+h1{
+    font-size: 120px;
+    font-family: 'Roboto';
+    letter-spacing: 2rem;
+    line-height: 0px;
+    font-weight: bolder;
+}
+.container{
+    margin: 0;
+    height: 100vh;
+    background-image: url("https://img.freepik.com/free-photo/man-with-rucksack-admires-gorgeous-mountain-landscape_1304-5340.jpg?w=900&t=st=1694198437~exp=1694199037~hmac=9d03c33337928b84211007dbfa08552b1597091db929516ba9a2c57d029f3ece");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    margin: auto;
+}
+h1{
+    font-weight: bold;
+}
+button{
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
